@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    background-color: '#ff85be';
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .note{
+        background-image: url(note.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        border: dotted;
+  }
+
+  .menu{
+    display: flex;
+    padding: 15px;
+  }
+
+  .border{
+    background-color: '#ff85be'; 
+    border: dotted;
+    border-color: black;
+  }
+
+  .head{
+      background-image: url(blink-img.jpg);
+
+  }
+
+  .members{
+    background-image: url(jisoobg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: dotted;
+}
